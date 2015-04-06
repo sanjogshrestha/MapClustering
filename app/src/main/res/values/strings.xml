@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClusteringMap</string>
+    <string name="title_activity_cluster">Map</string>
+</resources>
